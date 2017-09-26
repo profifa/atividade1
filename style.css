@@ -1,0 +1,64 @@
+th, td{
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+input#startDate{
+    width:100%;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+input#botao{
+    vertical-align: middle;
+    margin: auto;
+}
+header {
+    padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+    header {
+        padding: 156px 0 100px;
+    }
+}
+
+section {
+    padding: 150px 0;
+}
+h5{
+    text-align: center;
+}
+footer {
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+}
+a#add{
+    float:right;
+}
+.jumbotron
+{   
+    padding-top: 25px;
+    padding-bottom:25px;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+    position:relative;
+    text-align: center;
+}
+footer#fon {
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    height:20px;
+    width:100%;
+    background:#999;
+} 
+input[type="radio"]
+{
+    margin-top: 20px;
+}
