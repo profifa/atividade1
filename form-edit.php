@@ -88,7 +88,7 @@ if (!is_array($user)) {
                         </section>
                         <footer id="fon" class="py-5 bg-dark">
                             <div class="container">
-                                <p class="m-0 text-center text-white">Feito por: Bruna Fernanda/Isabella/Silvio</p>
+                                <p class="m-0 text-center text-white">Feito por:Thiago</p>
                             </div>
                         </footer>
                         <script src="vendor/jquery/jquery.min.js"></script>
